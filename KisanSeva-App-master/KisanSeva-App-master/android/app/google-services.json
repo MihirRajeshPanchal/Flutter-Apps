@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574937826251",
+    "project_id": "kisan-seva-cac6d",
+    "storage_bucket": "kisan-seva-cac6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574937826251:android:206ca73593c034979e2c4e",
+        "android_client_info": {
+          "package_name": "com.example.kisanseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574937826251-henunaj0o4aed7af1q08phtsc70mush9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdw4IdLS7n7BbpI75M5j4qiBy-nJ-5_wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574937826251-henunaj0o4aed7af1q08phtsc70mush9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
